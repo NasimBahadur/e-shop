@@ -1,0 +1,247 @@
+<!-- Bootstrap 4 uses HTML elements and CSS properties that require the HTML5 doctype. -->
+<!DOCTYPE html>
+<!-- Always include the HTML5 doctype at the beginning of the page, along with the lang attribute and the correct character set -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <!-- To ensure proper rendering and touch zooming for all devices, add the responsive viewport meta tag -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>eshop</title>
+
+    <!-- Bootstrap CDN -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+      crossorigin="anonymous"
+    />
+
+    <!-- Owl-carousel CDN -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
+      integrity="sha256-UhQQ4fxEeABh4JrcmAJ1+16id/1dnlOEVCFOxDef9Lw="
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
+      integrity="sha256-kksNxjDRxd/5+jGurZUJd1sdR2v+ClrCl3svESBaJqw="
+      crossorigin="anonymous"
+    />
+
+    <!-- font awesome icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
+      integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ="
+      crossorigin="anonymous"
+    />
+
+    <!-- Custom CSS file -->
+    <link rel="stylesheet" href="style.css" />
+
+
+    <style>
+      body {
+        background-color: whitesmoke;
+      }
+      .form {
+        background-color: white;
+        padding: 30px;
+        border: 1px solid lightskyblue;
+        border-radius: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- start #header -->
+    <header id="header" class="color-yellow-bg">
+      <!-- Primary Navigation -->
+      <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-dark color-yellow-bg">
+            <a class="navbar-brand font-weight-bolder text-danger" href="#">eshop</a>
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-toggle="collapse"
+              data-target="#navbarNav"
+              aria-controls="navbarNav"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav m-auto font-rubik">
+                <li class="nav-item px-3 active">
+                  <a class="nav-link text-secondary font-weight-bold" href="index.html">Product</a>
+                </li>
+                <li class="nav-item px-3 active">
+                  <a class="nav-link text-secondary font-weight-bold" href="register.html">Sign Up</i></a>
+                </li>
+                <li class="nav-item px-3 active">
+                  <a class="nav-link text-secondary font-weight-bold" href="login.html">Log In</a>
+                </li>
+              </ul>
+              <form action="#" class="font-size-14 font-rale">
+                <a href="cart.html" class="py-2 rounded-pill color-primary-bg">
+                  <span class="font-size-16 px-2 text-warning"><i class="fas fa-shopping-cart"></i></span>
+                  <span class="px-3 py-2 rounded-pill text-dark bg-light">0</span>
+                </a>
+              </form>
+            </div>
+        </nav>
+      </div>
+      
+      
+      <!-- !Primary Navigation -->
+    </header>
+    <!-- !start #header -->
+
+    <div class="container">
+      <div class="row my-5">
+        <div class="col-lg-3"></div>
+        <div class="col-lg-6">
+          <form action="login.php" method="post" class="form bg-light">
+            <div class="form-group p-2">
+              <h3 style="color: rgb(104, 109, 113); text-align: center">Login Account</h3>
+            </div>
+            <div class="form-group">
+                Phone Number:
+                <p style="color: red; display: inline">*</p>
+                <input
+                  class="form-control"
+                  type="tel"
+                  name="phone"
+                  id="phone"
+                  placeholder="Enter Phone Number"
+                  required
+                />
+            </div>
+            <div class="form-group">
+                Password:
+                <p style="color: red; display: inline">*</p>
+                <input
+                  class="form-control"
+                  type="password"
+                  name="password"
+                  id="password"
+                  placeholder="Enter Password"
+                  required
+                />
+            </div>
+            <div class="form-check"><input type="checkbox" class="form-check-input" name="remember" />Remember Me</div>
+            <div class="form-group float-right">
+              <button type="submit" class="btn btn-primary">Login</button>
+            </div>
+            <div class="form-group">
+              <a href="index.php"><u>Forgot Password</u></a>
+              <p>
+                Don't have an account? <a href="register.html"> <u>Register Here</u> </a>
+              </p>
+            </div>
+          </form>
+        </div>
+        <div class="col-lg-3"></div>
+      </div>
+    </div>
+
+    <!-- start #footer -->
+    <footer id="footer" class="bg-dark text-white py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-12">
+            <h4 class="font-rubik font-size-20">eshop</h4>
+            <p class="font-size-14 font-rale text-white-50">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, deserunt.</p>
+          </div>
+          <div class="col-lg-4 col-12">
+            <h4 class="font-rubik font-size-20">Newslatter</h4>
+            <form class="form-row">
+              <div class="col">
+                <input type="text" class="form-control" placeholder="Email *" />
+              </div>
+              <div class="col">
+                <button type="submit" class="btn btn-primary mb-2">Subscribe</button>
+              </div>
+            </form>
+          </div>
+          <div class="col-lg-2 col-12">
+            <h4 class="font-rubik font-size-20">Information</h4>
+            <div class="d-flex flex-column flex-wrap">
+              <a href="#" class="font-rale font-size-14 text-white-50 pb-1">About Us</a>
+              <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Delivery Information</a>
+              <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Privacy Policy</a>
+              <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Terms & Conditions</a>
+            </div>
+          </div>
+          <div class="col-lg-2 col-12">
+            <h4 class="font-rubik font-size-20">Account</h4>
+            <div class="d-flex flex-column flex-wrap">
+              <a href="#" class="font-rale font-size-14 text-white-50 pb-1">My Account</a>
+              <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Order History</a>
+              <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Wish List</a>
+              <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Newslatters</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <div class="copyright text-center bg-dark text-white py-2">
+      <p class="font-rale font-size-14">&copy; Copyrights 2022. Designed & Developed By <a href="#" class="color-second">Nasim Bahadur</a></p>
+    </div>
+    <!-- !start #footer -->
+
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+      integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+      integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+      integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Owl Carousel Js file -->
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+      integrity="sha256-pTxD+DSzIwmwhOqTFN+DB+nHjO4iAsbgfyFq5K5bcE0="
+      crossorigin="anonymous"
+    ></script>
+
+    <!--  isotope plugin cdn  -->
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"
+      integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI="
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Custom Javascript -->
+    <script src="index.js"></script>
+  </body>
+</html>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

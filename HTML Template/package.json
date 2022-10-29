@@ -1,0 +1,12 @@
+{
+  "name": "eshop",
+  "version": "1.0.0",
+  "description": "This E-commerce Website, eshop, is created using PHP and Mysql database. Creating an HTML template then convert it into PHP and then use MySQL database to fetch products and display.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"sass ./sass/style.scss style.css --watch"
+  },
+  "author": "Nasim Bahadur",
+  "license": "ISC"
+}
