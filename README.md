@@ -29,7 +29,11 @@ Run the ‘database.php’.file. Or ‘project411.sql’ file.
 # Testing
 Successfully connected with database and server which serves the pages.
 
-![e-shop full page](https://user-images.githubusercontent.com/43060004/200105267-2691a0c8-0d49-44ec-bca5-1830b512a07c.png)
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/43060004/200105267-2691a0c8-0d49-44ec-bca5-1830b512a07c.png width="700" height="1000"/>
+</p>
+
+![e-shop full page]()
 
 ![eshop4](https://user-images.githubusercontent.com/43060004/200105252-5f50eeb6-ba89-48e1-beee-fae04b2841de.png)
 
