@@ -20,7 +20,9 @@ The goals and objectives of this project are as follows:
 As a whole the system is focused to work with e-commerce System and on additional modification it can be also used as e-commerce systems of similar type of work or organizations.
 
 **System Users :**
+
 • Admin/Administrator: Has full privilege on the system's functions
+
 • User: Has privilege on the system's functions as assigned by the administrator
 
 # Testing
