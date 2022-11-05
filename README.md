@@ -34,19 +34,19 @@ Successfully connected with database and server which serves the pages.
 </p>
 
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/43060004/200105252-5f50eeb6-ba89-48e1-beee-fae04b2841de.png width="600" height="700"/>
+  <img src=https://user-images.githubusercontent.com/43060004/200105252-5f50eeb6-ba89-48e1-beee-fae04b2841de.png width="600" height="400"/>
 </p>
 
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/43060004/200105253-1117ecf7-44a1-4362-991f-de261eeb8296.png width="600" height="700"/>
+  <img src=https://user-images.githubusercontent.com/43060004/200105253-1117ecf7-44a1-4362-991f-de261eeb8296.png width="600" height="400"/>
 </p>
 
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/43060004/200105254-80a34410-8c47-4168-9ad7-9ad4b67cf71b.png width="600" height="700"/>
+  <img src=https://user-images.githubusercontent.com/43060004/200105254-80a34410-8c47-4168-9ad7-9ad4b67cf71b.png width="600" height="500"/>
 </p>
 
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/43060004/200105250-d8dd3482-cdc3-42d4-8ad7-59bf05c56e7c.png width="600" height="700"/>
+  <img src=https://user-images.githubusercontent.com/43060004/200105250-d8dd3482-cdc3-42d4-8ad7-59bf05c56e7c.png width="600" height="500"/>
 </p>
 
 
