@@ -29,9 +29,9 @@ Run the ‘database.php’.file. Or ‘project411.sql’ file.
 # Testing
 Successfully connected with database and server which serves the pages.
 
-![eshop3](https://user-images.githubusercontent.com/43060004/200105250-d8dd3482-cdc3-42d4-8ad7-59bf05c56e7c.png)
+![e-shop full page](https://user-images.githubusercontent.com/43060004/200105267-2691a0c8-0d49-44ec-bca5-1830b512a07c.png)
 ![eshop4](https://user-images.githubusercontent.com/43060004/200105252-5f50eeb6-ba89-48e1-beee-fae04b2841de.png)
 ![eshop5](https://user-images.githubusercontent.com/43060004/200105253-1117ecf7-44a1-4362-991f-de261eeb8296.png)
 ![eshop6](https://user-images.githubusercontent.com/43060004/200105254-80a34410-8c47-4168-9ad7-9ad4b67cf71b.png)
-![e-shop full page](https://user-images.githubusercontent.com/43060004/200105267-2691a0c8-0d49-44ec-bca5-1830b512a07c.png)
+![eshop3](https://user-images.githubusercontent.com/43060004/200105250-d8dd3482-cdc3-42d4-8ad7-59bf05c56e7c.png)
 
