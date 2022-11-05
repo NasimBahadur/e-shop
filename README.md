@@ -24,7 +24,7 @@ As a whole the system is focused to work with e-commerce System and on additiona
 • User: Has privilege on the system's functions as assigned by the administrator
 
 **Database :**
-Run the ‘database.php’.file. Or ‘project411.sql’ file.
+Run the ‘database.php’.file. Or ‘eshop.sql’ file.
 
 # Testing
 Successfully connected with database and server which serves the pages.
