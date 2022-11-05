@@ -30,11 +30,11 @@ Run the ‘database.php’.file. Or ‘project411.sql’ file.
 Successfully connected with database and server which serves the pages.
 
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/43060004/200105267-2691a0c8-0d49-44ec-bca5-1830b512a07c.png width="600" height="700"/>
+  <img src=https://user-images.githubusercontent.com/43060004/200105267-2691a0c8-0d49-44ec-bca5-1830b512a07c.png width="600" height="600"/>
 </p>
 
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/43060004/200105252-5f50eeb6-ba89-48e1-beee-fae04b2841de.png width="600" height="400"/>
+  <img src=https://user-images.githubusercontent.com/43060004/200105252-5f50eeb6-ba89-48e1-beee-fae04b2841de.png width="600" height="300"/>
 </p>
 
 <p align="center">
