@@ -13,8 +13,7 @@ The goals and objectives of this project are as follows:
 5. Price calculation and payment slip generation
 6. Planning, requirement analyzing, designing,implementing, testing and deployment
 7. User Flow diagram, Wireframes, Use Case diagram, and Activity diagram are made for this application
-8. Main focus was learning software architecture and development principles 
-9. Practising project management using Scrum framework of Agile project management model.
+8. Practising project management using Scrum framework of Agile project management model.
 
 **Scope :**
 As a whole the system is focused to work with e-commerce System and on additional modification it can be also used as e-commerce systems of similar type of work or organizations.
